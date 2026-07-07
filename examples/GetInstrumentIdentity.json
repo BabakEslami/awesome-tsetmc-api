@@ -1,1 +1,18 @@
-
+{
+  "_endpoint": "https://cdn.tsetmc.com/api/Instrument/GetInstrumentIdentity/{InsCode}",
+  "_note": "نمونه ساختاری بر اساس فیلدهای کلیدی مشاهده‌شده برای یک ETF اهرمی. مقادیر عددی/شناسه‌ای نمونه‌اند، نه لزوماً دقیق.",
+  "instrumentIdentity": {
+    "insCode": "17914401175772326",
+    "cIsin": "IRT1XXXXX001",
+    "lVal18": "Sample Leveraged ETF",
+    "cValMne": "XXXXX",
+    "sector": {
+      "cSecVal": "68 ",
+      "lSecVal": "صندوق سرمايه گذاري قابل معامله"
+    },
+    "subSector": {
+      "cSoSecVal": 6821,
+      "lSoSecVal": "صندوق هاي سرمايه گذاري اهرمي"
+    }
+  }
+}
