@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Test — TSETMC Active Endpoints (شناخته‌شده از تست قبلی)
+Test — TSETMC Active Endpoints
 =========================================================
 
 این اسکریپت فقط همان 55+1 endpoint‌ای را که در تست‌های قبلی به‌عنوان "فعال با داده واقعی"
